@@ -1,6 +1,6 @@
-# Collector 
+# Dispenser 
 
-This folder can be used to start a virtual environment with the required python packages to run the GUI + motor control for the collector.
+This folder can be used to start a virtual environment with the required python packages to run the GUI + motor control for the dispenser.
 
 ## How to run
 
@@ -11,7 +11,7 @@ source bin/activate
 
 2. Start GUI
 ```
-python3 collector.py
+python3 dispenser.py
 ```
 
 ## Important information 
